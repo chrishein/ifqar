@@ -1,0 +1,20 @@
+require 'bundler/setup'
+require 'ifqar'
+require 'vcr'
+require 'webmock/rspec'
+
+RSpec.configure do |config|
+  config.example_status_persistence_file_path = '.rspec_status'
+
+  config.color = true
+  config.formatter = 'documentation'
+
+  config.expect_with :rspec do |c|
+    c.syntax = :expect
+  end
+end
+
+VCR.configure do |config|
+  config.cassette_library_dir = 'spec/fixtures/vcr_cassettes'
+  config.hook_into :webmock
+end

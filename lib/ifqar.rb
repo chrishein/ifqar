@@ -1,0 +1,6 @@
+require 'ifqar/version'
+require 'ifqar/daily_funds_stats'
+require 'ifqar/fund_quote'
+require 'ifqar/fund_quoter'
+require 'ifqar/fund'
+require 'ifqar/stats_deserializer'

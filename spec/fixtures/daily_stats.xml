@@ -1,0 +1,1276 @@
+<Coleccion>
+    <Retorno>
+        <Codigo>1</Codigo>
+        <Texto>OK</Texto>
+    </Retorno>
+    <Datos>
+        <Dato>
+            <Nombre>TOTAL</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>12.367.481.540</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Regi~on: Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>11.153.559.017</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Merval</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>3.187.383.988</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>3.187.383.988</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>1810 Renta Variable Argentina</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>21.652,403</VCP>
+            <QCP>4.454.348</QCP>
+            <PN>96.447.336</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>404,725</VCP>
+            <QCP>131.867.410</QCP>
+            <PN>53.370.090</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>320,325</VCP>
+            <QCP>655.017.027</QCP>
+            <PN>209.818.574</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Acciones - Clase C</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>309,423</VCP>
+            <QCP>77.996.359</QCP>
+            <PN>24.133.878</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Arpenta Acciones Argentina</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>5.616,532</VCP>
+            <QCP>1.096.866</QCP>
+            <PN>6.160.585</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Axis Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.579,483</VCP>
+            <QCP>5.491.465</QCP>
+            <PN>8.673.677</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Axis Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.594,433</VCP>
+            <QCP>8.757.138</QCP>
+            <PN>13.962.667</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Convexity IOL Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.664,158</VCP>
+            <QCP>22.683.046</QCP>
+            <PN>37.748.180</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Convexity IOL Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.691,951</VCP>
+            <QCP>1.601.302</QCP>
+            <PN>2.709.324</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Calificado - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>27.953,694</VCP>
+            <QCP>10.098.179</QCP>
+            <PN>282.281.407</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Calificado - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>36.514,993</VCP>
+            <QCP>4.396.364</QCP>
+            <PN>160.533.201</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Fima Acciones</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.703,023</VCP>
+            <QCP>62.968.532</QCP>
+            <PN>170.205.411</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Fima PB Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>26.367,737</VCP>
+            <QCP>15.763.993</QCP>
+            <PN>415.660.804</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Fima PB Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>27.255,411</VCP>
+            <QCP>2.942.663</QCP>
+            <PN>80.203.486</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Galileo Acciones</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.552,082</VCP>
+            <QCP>203.205.373</QCP>
+            <PN>518.596.802</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>HF Acciones Lideres - Clase G</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.879,419</VCP>
+            <QCP>45.810.589</QCP>
+            <PN>131.907.863</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>HF Acciones Lideres - Clase I</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.830,220</VCP>
+            <QCP>38.143.016</QCP>
+            <PN>146.096.146</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Integrae Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Med
+            </Horiz>
+            <VCP>1.036,097</VCP>
+            <QCP>3.117.311</QCP>
+            <PN>3.229.836</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Integrae Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Med
+            </Horiz>
+            <VCP>1.110,874</VCP>
+            <QCP>5.460.646</QCP>
+            <PN>6.066.088</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Lombard Acciones Lideres</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.662,300</VCP>
+            <QCP>16.861.282</QCP>
+            <PN>28.028.501</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>MAF Acciones Argentinas</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Flex
+            </Horiz>
+            <VCP>5.177,122</VCP>
+            <QCP>6.021.149</QCP>
+            <PN>31.172.225</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Pellegrini Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.154,607</VCP>
+            <QCP>60.927.665</QCP>
+            <PN>70.347.510</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Pellegrini Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.176,229</VCP>
+            <QCP>1.328.592</QCP>
+            <PN>1.562.729</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Pionero Acciones</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>13.479,404</VCP>
+            <QCP>6.733.570</QCP>
+            <PN>90.764.506</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Premier Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>11.412,700</VCP>
+            <QCP>6.088.481</QCP>
+            <PN>69.486.002</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Premier Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>10.449,645</VCP>
+            <QCP>2.688.835</QCP>
+            <PN>28.097.374</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>SBS Acciones Argentina - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>11.566,546</VCP>
+            <QCP>1.912.922</QCP>
+            <PN>22.125.904</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>SBS Acciones Argentina - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>12.203,785</VCP>
+            <QCP>1.412.948</QCP>
+            <PN>17.243.318</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>ST Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.345,284</VCP>
+            <QCP>86.384</QCP>
+            <PN>116.211</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>ST Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.056,732</VCP>
+            <QCP>33.204.618</QCP>
+            <PN>68.293.013</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.553,143</VCP>
+            <QCP>131.688.599</QCP>
+            <PN>336.219.787</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.345,180</VCP>
+            <QCP>16.776.840</QCP>
+            <PN>56.121.553</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Acciones - Clase F</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.492,751</VCP>
+            <QCP>0</QCP>
+            <PN>0</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Merval 25</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>639.255.833</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>639.255.833</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>AL Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>8.459,040</VCP>
+            <QCP>909.021</QCP>
+            <PN>7.689.447</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>AL Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>10.036,435</VCP>
+            <QCP>4.863.931</QCP>
+            <PN>48.816.533</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Goal Acciones Argentinas - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.001.748,081</VCP>
+            <QCP>18.724</QCP>
+            <PN>56.204.166</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Goal Acciones Argentinas - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.475.381,677</VCP>
+            <QCP>15.770</QCP>
+            <PN>54.805.587</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>14.061,067</VCP>
+            <QCP>13.973.831</QCP>
+            <PN>196.486.982</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>17.361,974</VCP>
+            <QCP>15.853.792</QCP>
+            <PN>275.253.118</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Mar</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>6.216.087.047</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>6.216.087.047</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Mega - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>5.808,148</VCP>
+            <QCP>8.416.778</QCP>
+            <PN>48.885.893</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Mega - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.666,890</VCP>
+            <QCP>39.374.543</QCP>
+            <PN>183.756.663</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Mega - Clase C</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.460,939</VCP>
+            <QCP>3.658.224</QCP>
+            <PN>16.319.111</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Crecimiento Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>79.267,601</VCP>
+            <QCP>193.541</QCP>
+            <PN>15.341.523</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Crecimiento Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>93.660,006</VCP>
+            <QCP>12.295.792</QCP>
+            <PN>1.151.623.907</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Consultatio Acciones Argentina - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>131.861,476</VCP>
+            <QCP>206.227</QCP>
+            <PN>27.193.395</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Consultatio Acciones Argentina - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>133.783,097</VCP>
+            <QCP>11.672.058</QCP>
+            <PN>1.561.524.106</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Acciones Argentinas - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>6.236,658</VCP>
+            <QCP>17.702.368</QCP>
+            <PN>110.403.614</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Acciones Argentinas - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>6.360,162</VCP>
+            <QCP>3.272.089</QCP>
+            <PN>20.811.016</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>HF Acciones Argentinas - Clase G</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>16.051,936</VCP>
+            <QCP>4.018.747</QCP>
+            <PN>64.508.667</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>HF Acciones Argentinas - Clase I</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>17.550,161</VCP>
+            <QCP>13.936.403</QCP>
+            <PN>244.586.120</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>IAM Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.550,559</VCP>
+            <QCP>331.119</QCP>
+            <PN>513.420</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>IAM Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>9.523,431</VCP>
+            <QCP>25.350.109</QCP>
+            <PN>241.420.012</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>IAM Renta Variable - Clase C</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.096,989</VCP>
+            <QCP>297.425</QCP>
+            <PN>326.272</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Optimum Renta Variable III</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>18.456,915</VCP>
+            <QCP>56.062.407</QCP>
+            <PN>1.034.739.067</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Quinquela Acciones - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.791,289</VCP>
+            <QCP>111.955</QCP>
+            <PN>200.543</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Quinquela Acciones - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.023,954</VCP>
+            <QCP>37.495.184</QCP>
+            <PN>75.888.508</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Schroder Renta Variable</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>8.394,352</VCP>
+            <QCP>112.976.436</QCP>
+            <PN>948.363.993</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>36.049,149</VCP>
+            <QCP>8.666.752</QCP>
+            <PN>312.429.021</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>40.340,024</VCP>
+            <QCP>1.331.454</QCP>
+            <PN>53.710.887</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Renta Variable - Clase F</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.529,555</VCP>
+            <QCP>0</QCP>
+            <PN>0</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Toronto Trust Multimercado - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.920,990</VCP>
+            <QCP>6.992.576</QCP>
+            <PN>20.425.244</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Toronto Trust Multimercado - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.030,090</VCP>
+            <QCP>26.613.982</QCP>
+            <PN>80.642.771</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Toronto Trust Multimercado - Clase C</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.024,366</VCP>
+            <QCP>817.789</QCP>
+            <PN>2.473.294</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Otro</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>961.875.335</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>961.875.335</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>1822 Raices Valores Negociables</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>260.060,754</VCP>
+            <QCP>1.119.514</QCP>
+            <PN>291.141.655</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Delval</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>189,205</VCP>
+            <QCP>179.756.569</QCP>
+            <PN>34.010.842</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Recursos Naturales - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>11.421,909</VCP>
+            <QCP>8.306.329</QCP>
+            <PN>94.874.134</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Recursos Naturales - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>13.804,108</VCP>
+            <QCP>34.477.127</QCP>
+            <PN>475.925.980</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Tavelli Plus</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>26.314,209</VCP>
+            <QCP>2.505.214</QCP>
+            <PN>65.922.724</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: No Registrado</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>148.956.814</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>148.956.814</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Balanz Capital Acciones Argentina - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.343,005</VCP>
+            <QCP>52.739.277</QCP>
+            <PN>70.829.107</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Balanz Capital Acciones Argentina - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.335,511</VCP>
+            <QCP>35.507.649</QCP>
+            <PN>47.420.844</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Gainvest Renta Variable</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Flex
+            </Horiz>
+            <VCP>5.082,509</VCP>
+            <QCP>4.544.100</QCP>
+            <PN>23.095.426</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Megainver Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.493,504</VCP>
+            <QCP>3.428.308</QCP>
+            <PN>5.120.190</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Megainver Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.518,237</VCP>
+            <QCP>1.640.881</QCP>
+            <PN>2.491.247</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Regi~on: Latinoamerica</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>291.686.882</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: MSCI Latam</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>281.776.469</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>155.380.124</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Crecimiento II - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.188,583</VCP>
+            <QCP>1.250.223</QCP>
+            <PN>5.236.663</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Crecimiento II - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.736,306</VCP>
+            <QCP>2.400.197</QCP>
+            <PN>11.368.070</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Acciones Latinoamericana - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>9.148,902</VCP>
+            <QCP>13.291.932</QCP>
+            <PN>121.606.580</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Acciones Latinoamericana - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>10.836,652</VCP>
+            <QCP>1.584.328</QCP>
+            <PN>17.168.811</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Dolar Estadounidense</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>126.396.345</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Latinoamerica - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.577,261</VCP>
+            <QCP>2.264.112</QCP>
+            <PN>8.099.319</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Latinoamerica - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.593,502</VCP>
+            <QCP>19.511</QCP>
+            <PN>89.625</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Otro</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>9.910.413</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Dolar Estadounidense</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>9.910.413</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Small Cap II - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>781,307</VCP>
+            <QCP>252.616</QCP>
+            <PN>197.371</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Compass Small Cap II - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>847,626</VCP>
+            <QCP>524.645</QCP>
+            <PN>444.703</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Regi~on: Brasil</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>262.916.801</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Bovespa</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>172.784.254</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>172.784.254</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Mercosur - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>92.387,904</VCP>
+            <QCP>255.874</QCP>
+            <PN>23.639.683</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Mercosur - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>97.067,510</VCP>
+            <QCP>1.536.504</QCP>
+            <PN>149.144.571</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Otro</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>90.132.547</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>15.354.329</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Goal Acciones Plus - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>3.658,000</VCP>
+            <QCP>2.864.019</QCP>
+            <PN>10.476.582</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Goal Acciones Plus - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>4.041,049</VCP>
+            <QCP>143</QCP>
+            <PN>578</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Latinoamerica - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>12.145,702</VCP>
+            <QCP>401.555</QCP>
+            <PN>4.877.169</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Latinoamerica - Clase B</Nombre>
+            <Fecha>10/03/2016</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>5.641,749</VCP>
+            <QCP>0</QCP>
+            <PN>0</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Dolar Estadounidense</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>74.778.218</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Acciones Brasil - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.308,496</VCP>
+            <QCP>3.144.389</QCP>
+            <PN>4.114.418</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Superfondo Acciones Brasil - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.589,690</VCP>
+            <QCP>459.397</QCP>
+            <PN>730.299</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Regi~on: EEUU</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>2.850.683</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Otro</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>2.850.683</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>2.850.683</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>FBA Commodities - Clase B</Nombre>
+            <Fecha>24/04/2013</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>1.519,923</VCP>
+            <QCP>0</QCP>
+            <PN>0</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Internacional - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>8.000,505</VCP>
+            <QCP>175.528</QCP>
+            <PN>1.404.314</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Internacional - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>2.864,168</VCP>
+            <QCP>504.987</QCP>
+            <PN>1.446.369</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Regi~on: Global</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>656.468.157</PN>
+            <Espacios>0</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: Otro</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>406.486.991</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>406.486.991</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Recursos Naturales - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>18.687,128</VCP>
+            <QCP>598.786</QCP>
+            <PN>11.189.588</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Alpha Recursos Naturales - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>15.955,510</VCP>
+            <QCP>2.295.052</QCP>
+            <PN>36.618.732</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Select - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>6.614,436</VCP>
+            <QCP>296.408</QCP>
+            <PN>1.960.569</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>RJ Delta Select - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>810,060</VCP>
+            <QCP>440.360.140</QCP>
+            <PN>356.718.102</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Benchmark: No Registrado</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>249.981.166</PN>
+            <Espacios>1</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Moneda: Peso Argentina</Nombre>
+            <Fecha>T</Fecha>
+            <Horiz>N</Horiz>
+            <VCP>0,000</VCP>
+            <QCP>0</QCP>
+            <PN>249.981.166</PN>
+            <Espacios>2</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Consultatio Renta Variable - Clase A</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>10.273,950</VCP>
+            <QCP>1.556.865</QCP>
+            <PN>15.995.155</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+        <Dato>
+            <Nombre>Consultatio Renta Variable - Clase B</Nombre>
+            <Fecha>14/03/2017</Fecha>
+            <Horiz>Lar
+            </Horiz>
+            <VCP>10.699,452</VCP>
+            <QCP>21.868.972</QCP>
+            <PN>233.986.011</PN>
+            <Espacios>3</Espacios>
+        </Dato>
+    </Datos>
+</Coleccion>
