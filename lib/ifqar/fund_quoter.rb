@@ -17,6 +17,8 @@ module Ifqar
       :referer => 'http://www.cafci.org.ar/scripts/cfn_EstadisticasVCP.html'
     }.freeze
 
+    MAX_RETRIES = 3
+
     SET_PARAMS_URL = 'http://www.cafci.org.ar/Scripts/cfn_EstadisticaVCPXMLSet.asp'.freeze
     QUERY_URL = 'http://www.cafci.org.ar/Scripts/cfn_PlanillaDiariaXMLList.asp'.freeze
 
@@ -37,8 +39,19 @@ module Ifqar
 
     def query_service(date, type)
       payload = payload_builder(date, type)
-      response = RestClient.post(SET_PARAMS_URL, { :query => payload }, HEADERS)
-      response = RestClient.post(QUERY_URL, nil, HEADERS.merge(:cookies => response.cookies))
+
+      retries = 0
+      begin
+        response = RestClient.post(SET_PARAMS_URL, { :query => payload }, HEADERS)
+        response = RestClient.post(QUERY_URL, nil, HEADERS.merge(:cookies => response.cookies))
+      rescue RestClient::ExceptionWithResponse => error
+        if retries < MAX_RETRIES
+          retries += 1
+          retry
+        else
+          raise error
+        end
+      end
 
       StatsDeserializer.deserialze(date, FUND_TYPE[type][:name], response.body)
     end
